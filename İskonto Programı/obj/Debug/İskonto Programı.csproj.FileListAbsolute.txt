@@ -1,0 +1,11 @@
+C:\Users\ozela\source\repos\Delka İskonto\Delka İskonto\bin\Debug\Delka İskonto.exe.config
+C:\Users\ozela\source\repos\Delka İskonto\Delka İskonto\bin\Debug\Delka İskonto.exe
+C:\Users\ozela\source\repos\Delka İskonto\Delka İskonto\bin\Debug\Delka İskonto.pdb
+C:\Users\ozela\source\repos\Delka İskonto\Delka İskonto\obj\Debug\İskonto Programı.csproj.AssemblyReference.cache
+C:\Users\ozela\source\repos\Delka İskonto\Delka İskonto\obj\Debug\Delka_İskonto.Form1.resources
+C:\Users\ozela\source\repos\Delka İskonto\Delka İskonto\obj\Debug\Delka_İskonto.Form2.resources
+C:\Users\ozela\source\repos\Delka İskonto\Delka İskonto\obj\Debug\Delka_İskonto.Properties.Resources.resources
+C:\Users\ozela\source\repos\Delka İskonto\Delka İskonto\obj\Debug\İskonto Programı.csproj.GenerateResource.cache
+C:\Users\ozela\source\repos\Delka İskonto\Delka İskonto\obj\Debug\İskonto Programı.csproj.CoreCompileInputs.cache
+C:\Users\ozela\source\repos\Delka İskonto\Delka İskonto\obj\Debug\Delka İskonto.exe
+C:\Users\ozela\source\repos\Delka İskonto\Delka İskonto\obj\Debug\Delka İskonto.pdb
